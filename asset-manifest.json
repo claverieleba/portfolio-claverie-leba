@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio-claverie-leba/static/css/main.011e7051.css",
-    "main.js": "/portfolio-claverie-leba/static/js/main.feff987e.js",
+    "main.js": "/portfolio-claverie-leba/static/js/main.df2cc92e.js",
     "static/js/453.39fc0fe6.chunk.js": "/portfolio-claverie-leba/static/js/453.39fc0fe6.chunk.js",
     "index.html": "/portfolio-claverie-leba/index.html",
     "main.011e7051.css.map": "/portfolio-claverie-leba/static/css/main.011e7051.css.map",
-    "main.feff987e.js.map": "/portfolio-claverie-leba/static/js/main.feff987e.js.map",
+    "main.df2cc92e.js.map": "/portfolio-claverie-leba/static/js/main.df2cc92e.js.map",
     "453.39fc0fe6.chunk.js.map": "/portfolio-claverie-leba/static/js/453.39fc0fe6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.011e7051.css",
-    "static/js/main.feff987e.js"
+    "static/js/main.df2cc92e.js"
   ]
 }
